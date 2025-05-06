@@ -6,11 +6,11 @@
 - best language: python :)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/>
 </p>
 
 <p align="left">
