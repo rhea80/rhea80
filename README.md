@@ -1,5 +1,3 @@
-:)
-
 ### about me
 
 - junior @ rutgers university studying computer science and critical intelligence
