@@ -1,4 +1,1 @@
-- 👀 ilyree
-- 🌱 major: computer science
-- 💞️ future software engineer 
-- 📫 @ilyree on github
+:)
