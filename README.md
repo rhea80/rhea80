@@ -1,16 +1,17 @@
 ### about me
 
-- junior @ rutgers university studying computer science and critical intelligence
+- incoming cyber intern @ american express
+-  junior @ rutgers university studying computer science and critical intelligence
 - president of the [rutgers cybersecurity club](https://github.com/rutgers-rusec)
 - interests: web security, application security, network security
-- best language: python :)
+- fav languages: python, java, swift
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/">
 </p>
 
 <p align="left">
