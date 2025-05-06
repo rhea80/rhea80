@@ -11,8 +11,6 @@
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=rhea80&hide_border=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true"/>
 </p>
 
-
-### connect with me
 <p align="left">
   <a href="https://linkedin.com/in/rheasharma-cs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
