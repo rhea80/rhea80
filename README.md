@@ -6,11 +6,11 @@
 - interests: web security, application security, network security
 - fav languages: python, java, swift
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/">
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&layout=compact&theme=radical/">
 </p>
 
