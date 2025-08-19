@@ -1,6 +1,6 @@
 ### about me
-- junior @ rutgers university studying computer science and critical intelligence
-- incoming cyber intern @ american express
+- senior @ rutgers university studying computer science and critical intelligence
+- cyber @ american express
 - president of the [rutgers cybersecurity club](https://github.com/rusec)
 - interests: web security, application security, forensics, network security
 - fav languages: python, c++, java, 
