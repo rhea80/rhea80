@@ -7,7 +7,7 @@
 
 ### github stats
 <p align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&hide_border=true&theme=radical&exclude_repo=readme-stats,rhea80,rhea80">
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhea80&hide=html,css&hide_border=true&theme=radical">
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=rhea80&hide_border=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true"/>
 </p>
 
