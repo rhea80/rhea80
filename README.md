@@ -3,7 +3,7 @@
 - cyber @ amex
 - president of the [rutgers cybersecurity club](https://github.com/rusec)
 - interests: web security, application security, forensics, network security
-- fav languages: python, c, javascript, typescript, java
+- fav languages: python, javascript, c
 
 ### github stats
 <p align="center">
