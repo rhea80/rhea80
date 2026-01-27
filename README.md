@@ -3,7 +3,6 @@
 - cyber @ amex
 - president of the [rutgers cybersecurity club](https://github.com/rusec)
 - interests: web security, application security, offensive security, forensics
-- fav languages: python, powershell, javascript, bash, c
 
 <p align="left">
   <a href="https://linkedin.com/in/rheasharma-cs" target="_blank">
